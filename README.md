@@ -1,3 +1,7 @@
+# modify from fcwu/docker-ubuntu-vnc-desktop
+
+# add ttf-wqy-zenhei language-pack-zh-hans virt-manager fonts-arphic-uming firefox-locale-zh-hans language-pack-gnome-zh-hans
+
 docker-ubuntu-vnc-desktop
 =========================
 

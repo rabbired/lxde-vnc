@@ -44,6 +44,10 @@ RUN apt update \
  
 # Additional packages require ~600MB
 # libreoffice  pinta language-pack-zh-hant language-pack-gnome-zh-hant firefox-locale-zh-hant libreoffice-l10n-zh-tw
+RUN apt update \
+    && apt install -y --no-install-recommends --allow-unauthenticated \
+	ttf-wqy-zenhei language-pack-zh-hans virt-manager fonts-arphic-uming \
+	firefox-locale-zh-hans language-pack-gnome-zh-hans
 
 # tini for subreap
 ARG TINI_VERSION=v0.18.0
