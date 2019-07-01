@@ -2,11 +2,11 @@
 
 # add ttf-wqy-zenhei language-pack-zh-hans virt-manager fonts-arphic-uming firefox-locale-zh-hans language-pack-gnome-zh-hans
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/rabbired/lxde-vnc.svg)](/)
+[![Docker Stars](https://img.shields.io/docker/stars/rabbired/lxde-vnc.svg)](/)
+
 docker-ubuntu-vnc-desktop
 =========================
-
-[![Docker Pulls](https://img.shields.io/docker/pulls/dorowu/ubuntu-desktop-lxde-vnc.svg)](https://hub.docker.com/r/dorowu/ubuntu-desktop-lxde-vnc/)
-[![Docker Stars](https://img.shields.io/docker/stars/dorowu/ubuntu-desktop-lxde-vnc.svg)](https://hub.docker.com/r/dorowu/ubuntu-desktop-lxde-vnc/)
 
 Docker image to provide HTML5 VNC interface to access Ubuntu 16.04 LXDE desktop environment.
 
