@@ -1,6 +1,6 @@
 # modify from fcwu/docker-ubuntu-vnc-desktop
 
-# add ttf-wqy-zenhei language-pack-zh-hans virt-manager fonts-arphic-uming firefox-locale-zh-hans language-pack-gnome-zh-hans
+add ttf-wqy-zenhei language-pack-zh-hans virt-manager fonts-arphic-uming firefox-locale-zh-hans language-pack-gnome-zh-hans
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/rabbired/lxde-vnc.svg)](/)
 [![Docker Stars](https://img.shields.io/docker/stars/rabbired/lxde-vnc.svg)](/)
