@@ -8,7 +8,7 @@ add ttf-wqy-zenhei language-pack-zh-hans virt-manager fonts-arphic-uming firefox
 docker-ubuntu-vnc-desktop
 =========================
 
-Docker image to provide HTML5 VNC interface to access Ubuntu 16.04 LXDE desktop environment.
+Docker image to provide HTML5 VNC interface to access Ubuntu 18.04 LXDE desktop environment.
 
 Quick Start
 -------------------------
